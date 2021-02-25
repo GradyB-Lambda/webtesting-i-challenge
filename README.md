@@ -45,7 +45,7 @@ The following sections list information provided by the client about `items` and
 - If the item's enhancement is 15 or more, the durability of the item is decreased by 10.
 - If the item's enhancement level is greater than 16, the enhancement level decreases by 1 (17 goes down to 16, 18 goes down to 17).
 
-### Task 3: Stretch Goals
+### Task 3: Stretch
 
 This section is **optional** and not counted towards MVP. Start working on it after you're done with the main assignment.
 
@@ -59,4 +59,4 @@ This section is **optional** and not counted towards MVP. Start working on it af
 
 Follow these steps for completing your project.
 
-- [ ] Submit a pull request to merge `<firstName-lastName>` Branch into master (student's  Repo). **Please don't merge your own pull request**
+- [ ] Submit a pull request to merge `<firstName-lastName>` Branch into master (student's Repo). **Please don't merge your own pull request**
